@@ -5,7 +5,7 @@ Classic snake game made with phaser.js.
 Can be run with the simple node.js [http-server](https://github.com/indexzero/http-server) like so:
 
 ```
-node http-server snake_game
+http-server snake_game
 ```
 
 And then you can view and play the game on `localhost:8080`.
