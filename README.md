@@ -1,6 +1,6 @@
 # Snake Game
 
-Classic snake game made with phaser.js.
+Classic snake game made with [phaser.js](https://github.com/photonstorm/phaser).
 
 Can be run with the simple node.js [http-server](https://github.com/indexzero/http-server) like so:
 
